@@ -52,6 +52,3 @@ Mark is 13, a rising Twitch streamer who's dealing with puberty and a popularity
 - **Want:** A family success story.
 - **Conflict:** They praise Mark's numbers instead of seeing him, and they've stopped looking at Hannah at all.
 
-### The Chat (the narrator)
-- **Wants:** Drama and the next clip.
-- **Conflict:** With its own conscience. A crowd can cheer, pile on or look away, and the question is which one it picks.
