@@ -20,9 +20,9 @@ Mark is 13, a rising Twitch streamer who's dealing with puberty and a popularity
 
 ## Setup
 
-**Where:** An ordinary suburban home. In the living room the parents cheer for Mark. Online, the same people watch, clip and share.
+**Where:** An ordinary suburban home. In the living room, the parents cheer for Mark. Online, the same people watch, clip, and share.
 
-**Perspective:** The chat tells the story, as a crowd of usernames, emotes, clips and mod logs. It talks straight to *you*, the viewer, and asks what you did while you watched.
+**Perspective:** The chat tells the story, as a crowd of usernames, emotes, clips, and mod logs. It talks straight to *you*, the viewer, and asks what you did while you watched.
 
 **Tension:** Hannah should protect Mark, but she becomes the biggest source of his humiliation. Every clip she posts pushes his view count up, so her cruelty feeds the success she resents. The more he grows, the angrier she gets, and eventually she can't control what she started.
 
@@ -42,9 +42,9 @@ Mark is 13, a rising Twitch streamer who's dealing with puberty and a popularity
 - **Struggles with:** Body image, gaming pressure, and sensory overload from the constant noise, notifications and chat. He can't turn the audience off, even when he's shaking.
 - **Conflict:** With himself, because the more people watch him, the less he recognises himself. With Hannah, whose betrayal he can't name because she's family.
 
-### Hannah (14), the older sister and moderator
+### Hannah (15), the older sister and moderator
 - **Wants:** To be noticed and chosen again, like before Mark.
-- **Going through:** Her first periods, with pain, mood swings and the feeling of being behind everyone.
+- **Going through:** Her first periods, with pain, mood swings, and the feeling of being behind everyone.
 - **Archetype twist:** The golden child and protector turns into the saboteur who thinks she's the victim.
 - **Conflict:** She wants her brother's pain to stop and also wants it to continue, because it's the only thing that gets her looked at. She steers the conversations and uses her mod powers, then can't undo what the chat turns into.
 
