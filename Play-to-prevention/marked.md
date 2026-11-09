@@ -29,7 +29,6 @@ Mark is 13, a rising Twitch streamer who's dealing with puberty and a popularity
 **Name play:**
 - **Mark** is *marked*: tagged, clipped, singled out. He goes from "Mark" to "a mark," a target.
 - **Hannah** is a palindrome, the same forwards and backwards, like a mirror. She sees herself in her brother and hates it.
-- **Mod** is short for moderator, but also for *modify*. She edits who her brother is.
 
 **Puberty, twice:** Mark's changes are public, with his voice, skin and body on camera. Hannah's are private. Her first periods came late, after her friends', and she hides the pain and the mood swings because nobody asks. Midway through, her period starts at a bad moment and someone records it. Mark, the brother she's been humiliating, quietly helps her. Now she knows what being exposed feels like, and the story ends on her choice: delete the clips, or let the chat decide.
 
